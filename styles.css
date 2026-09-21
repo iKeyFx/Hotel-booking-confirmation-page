@@ -464,7 +464,6 @@ body {
     justify-content: space-between;
     border-top: 1px var(--terracotta-400) dashed;
     padding-top: 16px;
-    /* margin-top: 8px; */
 
     p {
         font-family: "DM Mono", monospace;
